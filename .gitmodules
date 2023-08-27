@@ -2,3 +2,6 @@
 	path = ghost/core/content/themes/casper
 	url = ../../TryGhost/Casper.git
 	ignore = all
+[submodule "ghost/core/content/themes/news-theme"]
+	path = ghost/core/content/themes/news-theme
+	url = ../../thehenrime/news-theme.git
